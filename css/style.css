@@ -18,3 +18,16 @@ body {
   overflow-x: hidden;
   background: #1a3b4c;
 }
+.header {
+    padding: 0.5%;
+    text-align: center;
+    background: #013052;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 10px solid #002138;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
