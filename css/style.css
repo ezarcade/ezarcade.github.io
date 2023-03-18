@@ -4,7 +4,7 @@ div.images {
 }
 
 img {
-  border: 10px solid #00121f;
+  border: 10px solid #441533;
   border-radius: 25px;
   transition: all .2s ease-in-out;
 }
@@ -16,18 +16,17 @@ img:hover {
 body {
   margin: 0;
   overflow-x: hidden;
-  background: #1a3b4c;
+  background: #5E1C46;
 }
 .header {
     padding: 0.5%;
     text-align: center;
-    background: #013052;
+    background: #3F132F;
     color: white;
     font-size: 20px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    border-bottom: 10px solid #002138;
     border-bottom-right-radius: 40px 40px;
     border-bottom-left-radius: 40px 40px;
   }
