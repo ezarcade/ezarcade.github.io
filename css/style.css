@@ -4,7 +4,7 @@ div.images {
 }
 
 img {
-  border: 5px solid #EDF7D2;
+  border: 7px solid #242424;
   border-radius: 25px;
   transition: all .2s ease-in-out;
 }
