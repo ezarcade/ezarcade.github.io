@@ -4,7 +4,7 @@ div.images {
 }
 
 img {
-  border: 7px solid #242424;
+  border: 7px solid #323232;
   border-radius: 25px;
   transition: all .2s ease-in-out;
 }
@@ -21,7 +21,7 @@ body {
 .header {
     padding: 0.5%;
     text-align: center;
-    background: #5B5B5B;
+    background: #525252;
     color: white;
     font-size: 20px;
     width: 100%;
