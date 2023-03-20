@@ -16,12 +16,12 @@ img:hover {
 body {
   margin: 0;
   overflow-x: hidden;
-  background: #88175e;
+  background: #383838;
 }
 .header {
     padding: 0.5%;
     text-align: center;
-    background: #6e194f;
+    background: #111111;
     color: white;
     font-size: 20px;
     width: 100%;
