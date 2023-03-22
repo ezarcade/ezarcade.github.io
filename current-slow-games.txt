@@ -1,0 +1,2 @@
+These are the current low-performance GBA games. This is because they are using a different GBA emulator
+as the other one is currently not working.
