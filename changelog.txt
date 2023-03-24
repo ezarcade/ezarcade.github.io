@@ -10,3 +10,4 @@ March 24, 2023:
     - Slope
     - Donkey Kong NES
     - Moto x3m
+    - CS:GO Case Clicker
