@@ -2,3 +2,10 @@ March 20, 2023:
     - Created Changelog
     - Add Burrito Bison
     - Updated Website Theme
+
+March 24, 2023:
+    - Fixed all GBA games so they actually run
+    - Added a lot of GBA games
+    - Doge Miner
+    - Slope
+    - Donkey Kong NES
