@@ -19,3 +19,4 @@ March 27, 2023:
     - Fixed Games (Drive Mad; Game Link Not Working, Sound Board and Lego Star Wars; Fixed Image Being Low Quality / Broken)
     - Ultra Violet (Proxy)
     - Super Metroid (Snes)
+    - Chrono Trigger (Snes)
