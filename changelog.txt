@@ -20,3 +20,4 @@ March 27, 2023:
     - Ultra Violet (Proxy)
     - Super Metroid (Snes)
     - Chrono Trigger (Snes)
+    - Mega Man X (Snes)
