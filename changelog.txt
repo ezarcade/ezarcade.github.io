@@ -21,3 +21,8 @@ March 27, 2023:
     - Super Metroid (Snes)
     - Chrono Trigger (Snes)
     - Mega Man X (Snes)
+
+March 28, 2023:
+    - Updated Some Icons
+    - Changed CSS for drop shadow and background color
+    - Add game tracker
