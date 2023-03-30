@@ -30,3 +30,13 @@ body {
     margin-right: auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
+
+div.controls {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  color: #fff;
+  font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #000000;
+}
