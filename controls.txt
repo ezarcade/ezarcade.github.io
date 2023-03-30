@@ -1,3 +1,11 @@
 Controls For GBA Games:
-    -
-    -
+Up       - W
+Left     - A
+Down     - S
+Right    - D
+
+A Button - M
+B Button - K
+
+Select   - 1
+Start    - 2
